@@ -1,2 +1,2 @@
 # spotify_playlist
-Aplicación de integración con Spotify que implementa autenticación OAuth, obtención de playlists y análisis de canciones usando la API oficial.
+Spotify integration app that implements OAuth authentication, playlist retrieval, and song analysis using the official Spotify API.
