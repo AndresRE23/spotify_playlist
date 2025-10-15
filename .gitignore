@@ -1,0 +1,54 @@
+### My Python Template template
+# Entornos virtuales
+venv/
+.env/
+.venv/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración local del entorno
+*.env
+*.ini
+*.cfg
+*.local
+*.db
+
+# Archivos de test / cobertura
+.coverage
+.pytest_cache/
+.nox/
+.tox/
+.cache/
+
+# Distribución / empaquetado
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+
+# Logs y salida
+*.log
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# IDEs - PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Herramientas de tipado y análisis estático
+.mypy_cache/
+.pytype/
+.pyre/
